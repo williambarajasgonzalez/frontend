@@ -7,6 +7,7 @@ import axios from "axios"
 import React from 'react';
 import ReactLoading from 'react-loading';
 import TextField from '@mui/material/TextField';
+import { Link } from 'react-router-dom';
 
 
 export default function Footer(){
