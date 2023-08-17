@@ -6,7 +6,7 @@ import MyWork from './pages/Mywork';
 import SecretPath from './pages/SecretPath';
 import Blog from './pages/Blog';
 import axios from 'axios';
-axios.defaults.baseURL ='http://70.93.18.122:5000'
+axios.defaults.baseURL ='https://backendmario.onrender.com'
 
 function App() {
 
