@@ -64,7 +64,7 @@ export default function Footer(){
                         <label className="text-gray-400">+52 686 199 1183</label>
                     </div>
             <label className="text-gray-400">@ Todos los derechos reservados. Mario A -  {year}</label>
-            <Link to='/secretpath' className='text-gray-500 p-2 hover:bg-gray-500 hover:text-white rounded-full w-1/12'> </Link>
+            <Link to='/secretpath' className='text-gray-50 p-2 hover:bg-gray-500 hover:text-white rounded-full'> </Link>
         </footer>
     );
 }
