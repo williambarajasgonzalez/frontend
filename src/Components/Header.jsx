@@ -9,7 +9,7 @@ export default function Footer(){
                 <Link to="/" className='text-gray-500 p-3 hover:bg-gray-500 hover:text-white rounded-full hover:cursor-pointer'>Acerca de mí</Link>
                 <Link to='/mistrabajo' className='text-gray-500 p-2 hover:bg-gray-500 hover:text-white rounded-full'>Mis trabajo</Link>
                 <Link to='/mistrabajo' className='text-gray-500 p-2 hover:bg-gray-500 hover:text-white rounded-full'>Mis trabajo</Link>
-                <Link to='/secretpath' className='text-gray-500 p-2 hover:bg-gray-500 hover:text-white rounded-full'></Link>
+                <Link to='/secretpath' className='text-gray-500 p-2 hover:bg-gray-500 hover:text-white rounded-full'> </Link>
             </div>
             
         </nav>
